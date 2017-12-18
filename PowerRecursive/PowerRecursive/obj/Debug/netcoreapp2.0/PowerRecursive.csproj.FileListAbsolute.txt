@@ -1,0 +1,11 @@
+C:\Code\myGitHub\C#DataStracturesAndAlgorithim\PowerRecursive\PowerRecursive\bin\Debug\netcoreapp2.0\PowerRecursive.deps.json
+C:\Code\myGitHub\C#DataStracturesAndAlgorithim\PowerRecursive\PowerRecursive\bin\Debug\netcoreapp2.0\PowerRecursive.runtimeconfig.json
+C:\Code\myGitHub\C#DataStracturesAndAlgorithim\PowerRecursive\PowerRecursive\bin\Debug\netcoreapp2.0\PowerRecursive.runtimeconfig.dev.json
+C:\Code\myGitHub\C#DataStracturesAndAlgorithim\PowerRecursive\PowerRecursive\bin\Debug\netcoreapp2.0\PowerRecursive.dll
+C:\Code\myGitHub\C#DataStracturesAndAlgorithim\PowerRecursive\PowerRecursive\bin\Debug\netcoreapp2.0\PowerRecursive.pdb
+C:\Code\myGitHub\C#DataStracturesAndAlgorithim\PowerRecursive\PowerRecursive\obj\Debug\netcoreapp2.0\PowerRecursive.csprojResolveAssemblyReference.cache
+C:\Code\myGitHub\C#DataStracturesAndAlgorithim\PowerRecursive\PowerRecursive\obj\Debug\netcoreapp2.0\PowerRecursive.csproj.CoreCompileInputs.cache
+C:\Code\myGitHub\C#DataStracturesAndAlgorithim\PowerRecursive\PowerRecursive\obj\Debug\netcoreapp2.0\PowerRecursive.AssemblyInfoInputs.cache
+C:\Code\myGitHub\C#DataStracturesAndAlgorithim\PowerRecursive\PowerRecursive\obj\Debug\netcoreapp2.0\PowerRecursive.AssemblyInfo.cs
+C:\Code\myGitHub\C#DataStracturesAndAlgorithim\PowerRecursive\PowerRecursive\obj\Debug\netcoreapp2.0\PowerRecursive.dll
+C:\Code\myGitHub\C#DataStracturesAndAlgorithim\PowerRecursive\PowerRecursive\obj\Debug\netcoreapp2.0\PowerRecursive.pdb
